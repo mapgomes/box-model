@@ -1,0 +1,32 @@
+div {
+    height: 400px;
+    width: 400px;
+    
+    border-width: 20px;
+    border-style: solid;
+    border-color: #e2238f;
+    border-radius: 50%;
+
+    background-image: url(dog.jpg);
+    text-align: center;
+    box-shadow: inset 16px 4px 13px 25px #fbd33c;
+    background-size: cover;
+
+    padding: 10px;
+
+    outline-width: 40px;
+    outline-style: double;
+    outline-color: #0bb5c5;
+
+    margin: auto;
+    margin-top: 100px;
+}
+
+p {
+    padding-top: 100px;
+    font-family: 'Sansita Swashed';
+    font-size: 60px;
+    font-weight: bolder;
+    color: rgb(241, 18, 141);
+    user-select: none;
+}
